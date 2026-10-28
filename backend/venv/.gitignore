@@ -1,0 +1,36 @@
+# Secrets / environment
+.env
+.env.*
+*.pem
+*.key
+# Dependencies
+node_modules/
+vendor/
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Build output
+dist/
+build/
+out/
+*.o
+*.exe
+bin/
+target/
+# Logs
+*.log
+logs/
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+# Test / coverage
+coverage/
+.pytest_cache/
+.cache/
