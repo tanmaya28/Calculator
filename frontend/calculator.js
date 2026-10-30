@@ -2,7 +2,6 @@
 // =========================================
 // Core Calculator Logic with API Integration
 // =========================================
-
 class Calculator {
     constructor() {
         this.inputDisplay = document.getElementById("input-display");
